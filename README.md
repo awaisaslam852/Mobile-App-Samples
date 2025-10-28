@@ -36,6 +36,14 @@ Here's the updated Android Projects section with your two new apps added:
 | Project Name | Description | Key Technologies | App Store / TestFlight |
 | :--- | :--- | :--- | :--- |
 | **[Voice Notes Recorder](https://apps.apple.com/pk/app/voice-notes-recorder/id6478985281)** | Sophisticated voice recording app with high-quality audio capture, intuitive organization, and seamless sharing capabilities. | Swift, SwiftUI, AVFoundation, Core Data, Local Notifications | [View on App Store](https://apps.apple.com/pk/app/voice-notes-recorder/id6478985281) |
+| **[AnswerBazaar](https://apps.apple.com/pk/app/answerbazaar/id6466041727)** | Q&A platform connecting users with experts across various domains for knowledge sharing and real-time problem solving. | Swift, SwiftUI, Real-time Chat, Push Notifications, User Rating System | [View on App Store](https://apps.apple.com/pk/app/answerbazaar/id6466041727) |
+| **[Relaxed Sleep Sounds](https://apps.apple.com/pk/app/relaxed-sleep-sounds-relax/id1313821831)** | Sleep and relaxation app featuring curated soundscapes, white noise, and ambient sounds for better sleep quality and stress relief. | Swift, AVFoundation, Audio Mixing, Sleep Timer, Background Audio | [View on App Store](https://apps.apple.com/pk/app/relaxed-sleep-sounds-relax/id1313821831) |
+| **[Meditation Moments](https://apps.apple.com/pk/app/meditation-moments-guided/id1434192937)** | Guided meditation app offering daily mindfulness sessions, breathing exercises, and stress reduction techniques for mental wellness. | Swift, Meditation Library, Progress Tracking, Audio Streaming, HealthKit | [View on App Store](https://apps.apple.com/pk/app/meditation-moments-guided/id1434192937) |
+| **[Marham Connect](https://apps.apple.com/pk/app/marham-connect/id1262870682)** | Healthcare platform connecting patients with doctors for online consultations, appointment booking, and medical advice. | Swift, Video Calling, Appointment Scheduling, E-Prescriptions, Secure Messaging | [View on App Store](https://apps.apple.com/pk/app/marham-connect/id1262870682) |
+| **[EzMatch Dating](https://apps.apple.com/pk/app/ezmatch-18-dating-meet-flirt/id1471508186)** | Modern dating app with smart matching algorithms, real-time chat, and interactive features for meaningful connections. | Swift, Match Algorithm, Real-time Chat, Push Notifications, Photo Verification | [View on App Store](https://apps.apple.com/pk/app/ezmatch-18-dating-meet-flirt/id1471508186) |
+| **[Real Mature Chat](https://apps.apple.com/pk/app/real-mature-chat-dating-app-uk/id1505724629)** | Dating platform for mature audiences featuring verified profiles, secure messaging, and community-focused interactions. | Swift, Age Verification, Secure Chat, Profile Moderation, Community Features | [View on App Store](https://apps.apple.com/pk/app/real-mature-chat-dating-app-uk/id1505724629) |
+| **[FarmGo App](https://apps.apple.com/pk/app/farmgo-app/id1596874084)** | Agricultural management platform helping farmers track crops, manage inventory, and connect with buyers and suppliers. | Swift, Farm Management, Inventory Tracking, Marketplace, Weather Integration | [View on App Store](https://apps.apple.com/pk/app/farmgo-app/id1596874084) |
+| **[PrestaApp](https://apps.apple.com/pk/app/prestaapp-prestashop-native-mobile-app/id1102299720)** | Native mobile app for PrestaShop e-commerce stores, enabling merchants to manage orders, products, and customers on-the-go. | Swift, PrestaShop API, Order Management, Product Catalog, Analytics Dashboard | [View on App Store](https://apps.apple.com/pk/app/prestaapp-prestashop-native-mobile-app/id1102299720) |
 
 ---
 
@@ -65,6 +73,7 @@ We are proficient in a wide range of modern mobile technologies:
 ---
 
 Here's the updated App Categories & Specializations section with all your apps:
+
 
 ## 📱 App Categories & Specializations
 
@@ -101,6 +110,14 @@ Here's the updated App Categories & Specializations section with all your apps:
 - Multi-industry summit coverage
 - Professional networking tools
 
+**PrestaApp - E-commerce Management**
+**Key Features:**
+- Native PrestaShop mobile management
+- Order processing and fulfillment
+- Product catalog management
+- Customer relationship management
+- Real-time sales analytics
+
 ### 🌐 Cross-Border E-Commerce
 **ShoPilipinas - International Trade**
 **Key Features:**
@@ -119,14 +136,31 @@ Here's the updated App Categories & Specializations section with all your apps:
 - Support for local businesses in Botswana
 - User-friendly shopping interface
 
+### 🏥 Healthcare & Telemedicine
+**Marham Connect - Healthcare Platform**
+**Key Features:**
+- Doctor-patient video consultations
+- Online appointment scheduling
+- E-prescription and medical records
+- Secure health messaging
+- Specialist directory and reviews
+
 ### 💬 Social & Q&A Platforms
-**Answer Bazaar**
+**Answer Bazaar (Android)**
 **Key Features:**
 - Q&A platform connecting users with experts
 - Real-time chat functionality
 - User rating and review system
 - Category-based question organization
 - Push notifications for responses
+
+**AnswerBazaar (iOS)**
+**Key Features:**
+- Expert Q&A platform with real-time messaging
+- User rating and review system
+- Organized question categories
+- Instant push notifications
+- Cross-platform knowledge sharing
 
 **UDC Connect**
 **Key Features:**
@@ -136,6 +170,57 @@ Here's the updated App Categories & Specializations section with all your apps:
 - Real-time social interactions
 - User profile management
 
+### 💕 Dating & Social Connection
+**EzMatch Dating**
+**Key Features:**
+- Smart matching algorithm
+- Real-time messaging and flirting tools
+- Age-appropriate user base (18+)
+- Photo verification system
+- Interactive icebreakers
+
+**Real Mature Chat**
+**Key Features:**
+- Mature audience-focused platform
+- Verified profile system
+- Secure and private messaging
+- Community guidelines enforcement
+- UK-focused user base
+
+### 🌾 Agriculture & Farming
+**FarmGo App**
+**Key Features:**
+- Crop and livestock management
+- Inventory and supply tracking
+- Marketplace for farm products
+- Weather and seasonal planning
+- Buyer-supplier connections
+
+### 🧘‍♂️ Health & Wellness Apps
+**Soundscape - Meditation & Focus (Android)**
+**Key Features:**
+- Diverse sound library for meditation, sleep, and focus
+- Bedtime stories for enhanced sleep quality
+- Timer tool for controlled relaxation sessions
+- Immersive audio experience with sound mixing
+- Curated soundscapes for every mood and need
+
+**Relaxed Sleep Sounds (iOS)**
+**Key Features:**
+- Curated sleep soundscapes and white noise
+- Customizable audio mixing
+- Sleep timer and alarm features
+- Relaxation and stress relief sounds
+- Background audio playback
+
+**Meditation Moments (iOS)**
+**Key Features:**
+- Guided meditation sessions
+- Breathing exercise programs
+- Daily mindfulness practices
+- Progress tracking and achievements
+- Mental wellness challenges
+
 ### 🎯 Sports & Analytics Apps
 **Sports Predictions App**
 **Key Features:**
@@ -144,15 +229,6 @@ Here's the updated App Categories & Specializations section with all your apps:
 - Dual access system (Ads/Coins)
 - Daily updates & push notifications
 - 150+ league coverage
-
-### 🧘‍♂️ Health & Wellness Apps
-**Soundscape - Meditation & Focus**
-**Key Features:**
-- Diverse sound library for meditation, sleep, and focus
-- Bedtime stories for enhanced sleep quality
-- Timer tool for controlled relaxation sessions
-- Immersive audio experience with sound mixing
-- Curated soundscapes for every mood and need
 
 ### 🔗 Utility & Productivity Apps
 **QRito - QR Code Generator**
