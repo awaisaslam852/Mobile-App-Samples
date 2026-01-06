@@ -32,8 +32,6 @@ Welcome to my professional mobile development showcase! This portfolio demonstra
 
 | Project | Description | Key Technologies | Availability |
 |:---|:---|:---|:---|
-| **Sports Predictions** | Comprehensive sports betting predictions | Kotlin, MVVM, Room, Retrofit, AdMob | [Play Store](https://play.google.com/store/apps/details?id=app.alsports.predictions) |
-| **QRito** | QR Code Generator with local management | Java, Jetpack Compose, Room, Material Design | [Play Store](https://play.google.com/store/apps/details?id=ai.datanous.qrito) |
 | **UDC Connect** | Social entertainment platform | Kotlin, Firebase, Real-time Database | [Play Store](https://play.google.com/store/apps/details?id=app.udcconnect.android) |
 | **ShoPilipinas** | Cross-border e-commerce platform | Kotlin, E-commerce, Payment Gateway | [Play Store](https://play.google.com/store/apps/details?id=com.shopphdaji) |
 
